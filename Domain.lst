@@ -820,3 +820,4 @@ nftset=/deezer.com/4#inet#fw4#vpn_domains
 nftset=/elastic.co/4#inet#fw4#vpn_domains
 nftset=/datacamp.com/4#inet#fw4#vpn_domains
 nftset=/grammarly.com/4#inet#fw4#vpn_domains
+nftset=/microchip.com/4#inet#fw4#vpn_domains

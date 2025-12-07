@@ -870,3 +870,4 @@ nftset=/tx.me/4#inet#fw4#vpn_domains
 nftset=/usercontent.dev/4#inet#fw4#vpn_domains
 nftset=/unraid.net/4#inet#fw4#vpn_domains
 nftset=/cdn.craft.cloud/4#inet#fw4#vpn_domains
+nftset=/getpdfstudio.xodo.com/4#inet#fw4#vpn_domains

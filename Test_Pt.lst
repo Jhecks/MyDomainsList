@@ -914,3 +914,6 @@ nftset=/ttlivecdn.com/4#inet#fw4#vpn_domains
 nftset=/ttlivecdn.com.c.worldfcdn.com/4#inet#fw4#vpn_domains
 nftset=/ttoversea.net/4#inet#fw4#vpn_domains
 nftset=/ttoverseaus.net/4#inet#fw4#vpn_domains
+nftset=/app-analytics-services.com/4#inet#fw4#vpn_domains
+nftset=/appsflyersdk.com/4#inet#fw4#vpn_domains
+nftset=/tiktokv.com/4#inet#fw4#vpn_domains

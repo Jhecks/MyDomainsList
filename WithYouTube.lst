@@ -885,7 +885,6 @@ nftset=/whatsapp-plus.net/4#inet#fw4#vpn_domains
 nftset=/whatsapp.info/4#inet#fw4#vpn_domains
 nftset=/mkvtoolnix.download/4#inet#fw4#vpn_domains
 nftset=/winaerotweaker.com/4#inet#fw4#vpn_domains
-
 nftset=/t.me/4#inet#fw4#vpn_domains
 nftset=/tg.dev/4#inet#fw4#vpn_domains
 nftset=/tg.org/4#inet#fw4#vpn_domains

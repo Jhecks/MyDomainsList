@@ -1082,3 +1082,4 @@ nftset=/tplinkcloud.com/4#inet#fw4#vpn_domains
 nftset=/arduino.cc/4#inet#fw4#vpn_domains
 nftset=/downloads.rclone.org/4#inet#fw4#vpn_domains
 nftset=/steamcommunity.com/4#inet#fw4#vpn_domains
+nftset=/nvidia.com/4#inet#fw4#vpn_domains

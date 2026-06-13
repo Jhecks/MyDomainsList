@@ -1085,3 +1085,4 @@ nftset=/ton.org/4#inet#fw4#vpn_domains
 nftset=/tx.me/4#inet#fw4#vpn_domains
 nftset=/usercontent.dev/4#inet#fw4#vpn_domains
 nftset=/deepseek.com/4#inet#fw4#vpn_domains
+nftset=/aws.cdn.hf.co/4#inet#fw4#vpn_domains

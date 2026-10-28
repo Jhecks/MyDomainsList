@@ -1069,10 +1069,7 @@ youtubego.in
 googleplay.com
 play.google.com
 beacons.gvt2.com
-lh3.googleusercontent.com
 android.clients.google.com
-play-lh.googleusercontent.com
-play-games.googleusercontent.com
 prod-lt-playstoregatewayadapter-pa.googleapis.com
 etahub.com
 erome.com
@@ -1092,3 +1089,6 @@ argotunnel.com
 trycloudflare.com
 cloudflareclient.com
 cloudflareclient.com
+gstatic.com
+googleusercontent.com
+accounts.google.com
